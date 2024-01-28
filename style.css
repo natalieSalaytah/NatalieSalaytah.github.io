@@ -2,12 +2,13 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #3498db; /* Default background color */
+    background: url('images/dark_blue_abstract_background.jpg') no-repeat center center fixed;
+    background-size: cover;
     color: #fff;
 }
 
 nav {
-    background-color: #2980b9;
+    background-color: #192a56;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -32,7 +33,7 @@ li {
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: #3498db;
 }
 
 .container {
@@ -40,30 +41,29 @@ a {
     margin: 0 auto;
 }
 
-section {
-    padding: 50px;
-    margin: 20px 0;
+header {
     text-align: center;
+    margin: 100px 0;
 }
 
-.about {
-    background-color: #2ecc71;
-}
-
-.creative {
-    background-color: #e74c3c;
-}
-
-.outgoing {
-    background-color: #f39c12;
-}
-
-.major {
-    background-color: #3498db;
-}
-
-h2, p {
+h1, h2, p {
     margin: 0;
 }
 
+.creative {
+    background-color: #3498db;
+    padding: 50px;
+    margin: 20px 0;
+}
 
+.outgoing {
+    background-color: #2980b9;
+    padding: 50px;
+    margin: 20px 0;
+}
+
+.major {
+    background-color: #192a56;
+    padding: 50px;
+    margin: 20px 0;
+}
