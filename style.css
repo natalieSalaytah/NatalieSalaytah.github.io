@@ -50,23 +50,23 @@ h1, h2, p {
     margin: 0;
 }
 
-.creative, .outgoing, .major {
+.About_Me, .Skills, .Contact {
     color: #fff; /* Set text color to white */
 }
 
-.creative {
+.About_Me {
     background-color: #3498db;
     padding: 50px;
     margin: 20px 0;
 }
 
-.outgoing {
+.Skills {
     background-color: #2980b9;
     padding: 50px;
     margin: 20px 0;
 }
 
-.major {
+.Contact {
     background-color: #192a56;
     padding: 50px;
     margin: 20px 0;
