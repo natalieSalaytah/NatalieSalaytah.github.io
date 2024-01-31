@@ -4,7 +4,7 @@ body {
     padding: 0;
     background: url('images/dark_blue_abstract_background.jpg') no-repeat center center fixed;
     background-size: cover;
-    color: #05114d;
+    color: #e8eaf5;
 }
 
 nav {
@@ -16,7 +16,7 @@ nav {
 }
 
 .logo {
-    color: #fff;
+    color: #42969d;
     font-size: 1.5em;
 }
 
@@ -75,3 +75,4 @@ h1, h2, p {
 footer{
     text-align: center;
 }
+
