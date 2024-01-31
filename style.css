@@ -51,13 +51,14 @@ h1, h2, p {
 }
 
 .About_Me, .Skills, .Contact {
-    color: #fff; /* Set text color to white */
+    color: #fff; 
 }
 
 .About_Me {
     background-color: #3498db;
     padding: 50px;
     margin: 20px 0;
+    font-family:'Arial Narrow Bold';
 }
 
 .Skills {
